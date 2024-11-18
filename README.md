@@ -31,7 +31,6 @@
 ### 📈 GitHub Stats:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=georgelipceanu&show_icons=true&theme=dark" alt="georgelipceanu" width="400" height="200" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgelipceanu&theme=dark" alt="georgelipceanu" width="400" height="200" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgelipceanu&layout=compact&theme=dark" alt="georgelipceanu" />
 </p>
 
