@@ -18,8 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="padding:5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="padding:5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="padding:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="HTML5" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="padding:5px;"/>
@@ -31,8 +30,7 @@
 ### 📈 GitHub Stats:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=georgelipceanu&show_icons=true&theme=dark" alt="georgelipceanu" width="400" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgelipceanu&theme=dark" alt="georgelipceanu" width="400" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgelipceanu&layout=compact&theme=dark" alt="georgelipceanu" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgelipceanu&layout=compact&theme=dark" alt="georgelipceanu" width="300" height="200"  />
 </p>
 
 ### 🌍 Connect with Me:
